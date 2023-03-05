@@ -37,6 +37,6 @@ def graphs():
     return render_template("graph.html")
 
 
-if __name__ == '__main__':
+def createApp():
     model.createModel()
     app.run(debug=True)
