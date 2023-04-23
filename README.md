@@ -22,13 +22,13 @@ Mac OS:
 3) Activate virtual environment:
 > source env/bin/activate
 
-### step 2:
+### step 2: Installing all required Libraries
 > pip install -r requirements.txt
 
-### step 3:
+### step 3: Running the app
 > python run.py
 
-### step 4:
+### step 4: How to see the app
 goto port localhost:5000/ in your browser for viewing app.
 
 ## Note:
@@ -51,5 +51,5 @@ Whenever you install any new package in app please run this command
 ![image](https://user-images.githubusercontent.com/104631814/233820250-56b2a2fd-9617-4b64-98bb-db43bcbc45ad.png)
 
 #### Graph Section for analysis of Exchange Rate (USD to INR):
-1) ![image](https://user-images.githubusercontent.com/104631814/233820297-bd405114-ba53-428d-b797-0f51d5904cd3.png)
-2) ![image](https://user-images.githubusercontent.com/104631814/233820342-dadda325-8244-4bd2-a8ec-5d4a997ebd45.png)
+![image](https://user-images.githubusercontent.com/104631814/233820297-bd405114-ba53-428d-b797-0f51d5904cd3.png)
+![image](https://user-images.githubusercontent.com/104631814/233820342-dadda325-8244-4bd2-a8ec-5d4a997ebd45.png)
